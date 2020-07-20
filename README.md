@@ -1,4 +1,4 @@
-![](https://github.com/mustafaali96/mustafaali96/blob/master/cover_intro.gif) 
+![](https://github.com/mustafaali96/mustafaali96/blob/master/Assests/cover_intro.gif) 
 
 ### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
