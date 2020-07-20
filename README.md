@@ -26,13 +26,11 @@ A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine L
 
 ## Let's Connect -
 
-[![Linkedin Badge](https://img.shields.io/badge/-mustafaali96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaali96/)](https://www.linkedin.com/in/mustafaali96/)   
-[![Facebook Badge](https://img.shields.io/badge/-Mustafa.Ali.Mir.96-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/Mustafa.Ali.Mir.96)](https://facebook.com/Mustafa.Ali.Mir.96)   
-[![Gmail Badge](https://img.shields.io/badge/-engr.mustafa.ali.mir@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:engr.mustafa.ali.mir@gmail.com)](mailto:engr.mustafa.ali.mir@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mustafaali96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaali96/)](https://www.linkedin.com/in/mustafaali96/)   [![Facebook Badge](https://img.shields.io/badge/-Mustafa.Ali.Mir.96-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/Mustafa.Ali.Mir.96)](https://facebook.com/Mustafa.Ali.Mir.96)   [![Gmail Badge](https://img.shields.io/badge/-engr.mustafa.ali.mir@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:engr.mustafa.ali.mir@gmail.com)](mailto:engr.mustafa.ali.mir@gmail.com)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-https://visitor-badge.glitch.me/badge?page_id=mustafaali96/mustafaali96
+https://mustafaali96-visitor-badge.glitch.me/badge?page_id=mustafaali96/mustafaali96
 <br><br>
 ⭐ From [Mustafa Ali](https://github.com/mustafaali96)
 
