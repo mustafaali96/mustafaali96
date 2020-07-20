@@ -1,6 +1,7 @@
 ![](https://github.com/mustafaali96/mustafaali96/blob/master/cover_intro.gif) 
 
-### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px">
+### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
+✨ Welcome to my **Special** repository ✨
 
 I am **Mustafa Ali** working as a *Computer Vision Engineer* at <a href="https://www.xclusive-solutions.com/"> <b>Xclusive Solutions pvt. ltd.</b>, Kedacom Pakistan</a>. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/"> <b>Sir Syed University of Engineering and Technology.</b></a>
 
@@ -18,7 +19,9 @@ A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine L
 
 - 🤔 I’m looking for helping people who are starting in ML/Data Science.
 
-- 💬 Ask me about anything AI Computer Vision.
+- 💬 Ask me anything about **AI Computer Vision**.
+
+- 📫 reach me @mail:mustafa@xclusive-solutions.com
 
 - 😄 Pronouns: **Ingenious**, **Leader** and **Creative**
 
@@ -30,26 +33,6 @@ A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine L
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-https://mustafaali96-visitor-badge.glitch.me/badge?page_id=mustafaali96/mustafaali96
-
 ![visitors](https://mustafaali96-visitor-badge.glitch.me/badge?page_id=mustafaali96/mustafaali96)
 <br><br>
 ⭐ From [Mustafa Ali](https://github.com/mustafaali96)
-
-
-### Hi there 👋
-
-<!--
-**mustafaali96/mustafaali96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
