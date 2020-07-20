@@ -31,6 +31,8 @@ A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine L
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 https://mustafaali96-visitor-badge.glitch.me/badge?page_id=mustafaali96/mustafaali96
+
+![visitors](https://mustafaali96-visitor-badge.glitch.me/badge?page_id=mustafaali96/mustafaali96)
 <br><br>
 ⭐ From [Mustafa Ali](https://github.com/mustafaali96)
 
