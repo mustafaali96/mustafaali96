@@ -18,19 +18,16 @@ A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine L
 
 - 🤔 I’m looking for helping people who are starting in ML/Data Science.
 
-- 💬 Ask me about anything but know that I am passionate about technology.
+- 💬 Ask me about anything AI Computer Vision.
 
 - 😄 Pronouns: **Ingenious**, **Leader** and **Creative**
 
 - ⚡ Fun fact: The bravest thing I've ever done was opening of Github Account.
 
 ## Let's Connect -
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-[![Linkedin Badge](<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mustafaali96"><a class="LI-simple-link" href='https://pk.linkedin.com/in/mustafaali96?trk=profile-badge'>Mustafa Ali</a></div>) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-mustafaali96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaali96/)](https://www.linkedin.com/in/mustafaali96/) 
-
-[![Facebook Badge](https://img.shields.io/badge/-Mustafa.Ali.Mir.96-03a57a?style=flat-square&labelColor=000000&logo=Facebook&link=https://facebook.com/Mustafa.Ali.Mir.96)](https://facebook.com/Mustafa.Ali.Mir.96)
+[![Linkedin Badge](https://img.shields.io/badge/-mustafaali96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafaali96/)](https://www.linkedin.com/in/mustafaali96/)   
+[![Facebook Badge](https://img.shields.io/badge/-Mustafa.Ali.Mir.96-03a57a?style=flat-square&labelColor=FFFFFF&logo=Facebook&link=https://facebook.com/Mustafa.Ali.Mir.96)](https://facebook.com/Mustafa.Ali.Mir.96)   
 [![Gmail Badge](https://img.shields.io/badge/-engr.mustafa.ali.mir@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:engr.mustafa.ali.mir@gmail.com)](mailto:engr.mustafa.ali.mir@gmail.com)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
