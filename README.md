@@ -21,7 +21,7 @@ A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine L
 
 - 💬 Ask me anything about **AI Computer Vision**.
 
-- 📫 reach me @mailto:engr.mustafa.ali.mir@gmail.com
+- 📫 reach me engr.mustafa.ali.mir@gmail.com
 
 - 😄 Pronouns: **Ingenious**, **Leader** and **Creative**
 
