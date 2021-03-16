@@ -3,13 +3,13 @@
 ### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
 
-I am **Mustafa Ali** working as a *Python Developer* at <a href="https://allstartech.net//"  target="_blank"> <b>All Star Technology.</b>, Karachi Pakistan</a>. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/"  target="_blank"> <b>Sir Syed University of Engineering and Technology.</b></a>
+I am **Mustafa Ali** working as a *Python Developer* at <a href="https://allstartech.net//" formtarget="_blank"> <b>All Star Technology.</b>, Karachi Pakistan</a>. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/" formtarget="_blank"> <b>Sir Syed University of Engineering and Technology.</b></a>
 
 ## About Me
 
-A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine Learning, Deep Learning, Data Scientist to be, I'm Certified <a href="https://coursera.org/share/0d4259deb26d81da2eabd153f890c6a5"  target="_blank"> <b>Google Professional Data Engineer</b> </a> & <a href="https://www.coursera.org/account/accomplishments/specialization/M7JNK4GNSYDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n"  target="_blank"> <b>Google Machine Learning Specialist</b> </a>
+A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine Learning, Deep Learning, Data Scientist to be, I'm Certified <a href="https://coursera.org/share/0d4259deb26d81da2eabd153f890c6a5" target="_blank"> <b>Google Professional Data Engineer</b> </a> & <a href="https://www.coursera.org/account/accomplishments/specialization/M7JNK4GNSYDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n" target="_blank"> <b>Google Machine Learning Specialist</b> </a>
 
-Check out my <a href="https://mustafa-ali-mir.herokuapp.com/"  target="_blank"> <b>Portfolio</b></a>
+Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <b>Portfolio</b></a>
 
 - 💻 I’m currently a Python Developer.
 
