@@ -3,7 +3,7 @@
 ### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
 
-I am **Mustafa Ali** working as a *Python Developer* at <a href="https://allstartech.net//" formtarget="_blank"> <b>All Star Technology.</b>, Karachi Pakistan</a>. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/" formtarget="_blank"> <b>Sir Syed University of Engineering and Technology.</b></a>
+I am **Mustafa Ali** working as a *Python Developer*. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/" formtarget="_blank"> <b>Sir Syed University of Engineering and Technology.</b></a>
 
 ## About Me
 
