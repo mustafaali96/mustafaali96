@@ -3,7 +3,7 @@
 ### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
 
-I am **Mustafa Ali** working as a *Python Developer*. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/" formtarget="_blank"> <b>Sir Syed University of Engineering and Technology.</b></a>
+I am **Mustafa Ali** working as a *Data Engineer GCP* at <a href="https://www.royalcyber.com/" formtarget="_blank"> <b>Royal Cyber Inc.</b></a>. Completed my Bachelors in Software Engineering from <a href="https://ssuet.edu.pk/" formtarget="_blank"> <b>Sir Syed University of Engineering and Technology.</b></a>
 
 ## About Me
 
@@ -11,7 +11,7 @@ A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine L
 
 Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <b>Portfolio</b></a>
 
-- 💻 I’m currently a Python Developer.
+- 💻 I’m currently a Data Engineer.
 
 - 🌱 I'm currently learning Deep Learning, Computer Vision, NLP.
 
