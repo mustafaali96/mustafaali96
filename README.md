@@ -1,4 +1,4 @@
-![](https://github.com/mustafaali96/mustafaali96/blob/master/Assests/cover_intro.gif) 
+<!-- ![](https://github.com/mustafaali96/mustafaali96/blob/master/Assests/cover_intro.gif)  -->
 
 ### <img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mustafaali96/mustafaali96/blob/master/Assests/Earth.gif" width="24px"> 
 ✨ Welcome to my **Special** repository ✨
@@ -7,7 +7,9 @@ I am **Mustafa Ali** working as a *Data Engineer GCP* at <a href="https://www.ro
 
 ## About Me
 
-A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine Learning, Deep Learning, Data Scientist to be, I'm Certified <a href="https://coursera.org/share/0d4259deb26d81da2eabd153f890c6a5" target="_blank"> <b>Google Professional Data Engineer</b> </a> & <a href="https://www.coursera.org/account/accomplishments/specialization/M7JNK4GNSYDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n" target="_blank"> <b>Google Machine Learning Specialist</b> </a>
+A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine Learning, Deep Learning, Data Scientist to be, I'm Certified <a href="https://www.credential.net/5dc11c32-24bd-469b-86a0-d9038c151a4a" target="_blank"> <b>Google Cloud Professional Data Engineer</b> </a> & <a href="https://www.coursera.org/account/accomplishments/specialization/M7JNK4GNSYDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n" target="_blank"> <b>Google Machine Learning Specialist</b> </a>
+
+As a Certified Google Data Engineer, I bring deep experience and strategic insight spanning from Architecture, Design and Development. My current role is crucial to developing enterprise-ready solutions for clients worldwide specially using cloud technologies in hybrid cloud. I involve in working with highly skilled cloud architects and execute complex solutions for Royal Cyber clients worldwide.
 
 Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <b>Portfolio</b></a>
 
