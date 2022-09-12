@@ -33,7 +33,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 ### Services I worked on Google Cloud Platform
 
-<img alt="Google" src="https://img.shields.io/badge/oogle-VertexAI-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Pub/Sub-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Dataflow-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-BigQueryML-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataProc-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataPrep-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Fusion-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataStudio-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-VertexAI-blue?logo=Google Cloud" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Pub/Sub-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Dataflow-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-BigQueryML-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataProc-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataPrep-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Fusion-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataStudio-blue?logo=google" />
 
 
 <h3>Technologies and tools I code with</h3>
