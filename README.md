@@ -33,7 +33,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 ##Services I worked on Google Cloud Platform
 
-<img alt="Google" src="https://img.shields.io/badge/oogle-VertexAI-blue?logo=google" /> | <img alt="Google" src="https://img.shields.io/badge/oogle-Pub/Sub-blue?logo=google" /> | <img alt="Google" src="https://img.shields.io/badge/oogle-Dataflow-blue?logo=google" /> | <img alt="Google" src="https://img.shields.io/badge/oogle-BigQueryML-blue?logo=google" /> | <img alt="Google" src="https://img.shields.io/badge/oogle-DataProc-blue?logo=google" /> | <img alt="Google" src="https://img.shields.io/badge/oogle-DataPrep-blue?logo=google" /> | <img alt="Google" src="https://img.shields.io/badge/oogle-Fusion-blue?logo=google" /> | <img alt="Google" src="https://img.shields.io/badge/oogle-DataStudio-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-VertexAI-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Pub/Sub-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Dataflow-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-BigQueryML-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataProc-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataPrep-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Fusion-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataStudio-blue?logo=google" />
 
 
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafaali96)](https://github.com/mustafaali96/github-readme-stats)
