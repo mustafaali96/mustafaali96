@@ -33,13 +33,13 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 ### Services I worked on Google Cloud Platform
 
-<img alt="Google" src="https://img.shields.io/badge/oogle-VertexAI-blue?logo=Google Cloud" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Pub/Sub-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Dataflow-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-BigQueryML-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataProc-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataPrep-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Fusion-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataStudio-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-VertexAI-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Pub/Sub-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Dataflow-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-BigQueryML-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataProc-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataPrep-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-Fusion-blue?logo=google" /> <img alt="Google" src="https://img.shields.io/badge/oogle-DataStudio-blue?logo=google" />
 
 
 <h3>Technologies and tools I code with</h3>
 
 <p>
-  <img alt="Google" src="https://img.shields.io/badge/-Google-blue?style=flat-square&logo=google&logoColor=white" /> 
+  <img alt="Google" src="https://img.shields.io/badge/-GCP-blue?style=flat-square&logo=Google Cloud&logoColor=white" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" /> 
   <img alt="Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-white?style=flat-square&logo=Apache%20Kafka&logoColor=black" />
   <img alt="Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-4290f5?style=flat-square&logo=Apache%20Airflow&logoColor=b80404" />
