@@ -7,7 +7,7 @@ I am **Mustafa Ali** working as a *Data Engineer GCP* at <a href="https://www.ro
 
 ## About Me
 
-A Researcher & a Programmer! Chatbot is my trade and AI is my Science. Machine Learning, Deep Learning, Data Scientist to be, I'm Certified <a href="https://www.credential.net/5dc11c32-24bd-469b-86a0-d9038c151a4a" target="_blank"> <b>Google Cloud Professional Data Engineer</b> </a> & <a href="https://www.coursera.org/account/accomplishments/specialization/M7JNK4GNSYDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n" target="_blank"> <b>Google Machine Learning Specialist</b> </a>
+Data Engineer who turn data into **Gold**! Chatbot is my trade and AI is my Science. Machine Learning, Deep Learning, Data Scientist to be, I'm Certified <a href="https://www.credential.net/5dc11c32-24bd-469b-86a0-d9038c151a4a" target="_blank"> <b>Google Cloud Professional Data Engineer</b> </a> & <a href="https://www.coursera.org/account/accomplishments/specialization/M7JNK4GNSYDT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n" target="_blank"> <b>Google Machine Learning Specialist</b> </a>
 
 As a Certified Google Data Engineer, I bring deep experience and strategic insight spanning from Architecture, Design and Development. My current role is crucial to developing enterprise-ready solutions for clients worldwide specially using cloud technologies in hybrid cloud. I involve in working with highly skilled cloud architects and execute complex solutions for Royal Cyber clients worldwide.
 
@@ -15,7 +15,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 - 💻 I’m currently a Data Engineer.
 
-- 🌱 I'm currently learning Deep Learning, Computer Vision, NLP.
+- 🌱 I'm currently learning Machine Learning, Computer Vision, Data Analytics, NLP Chatbots.
 
 - 🔭 I’m looking to collaborate on **OpenSourced** projects on **ML/DL**
 
@@ -23,13 +23,25 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 - 🤔 I’m looking for helping people who are starting in ML/Data Science.
 
-- 💬 Ask me anything about **AI Computer Vision**.
+- 💬 Ask me anything about **Data Engineering, Machine Learning, Computer Vision**.
 
 - 📫 reach me engr.mustafa.ali.mir@gmail.com
 
 - 😄 Pronouns: **Ingenious**, **Leader** and **Creative**
 
 - ⚡ Fun fact: The bravest thing I've ever done was opening of Github Account.
+
+<h3>Services I worked on Google Cloud Platform</h3>
+
+<img alt="Google" src="https://img.shields.io/badge/oogle-VertexAI-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-Pub/Sub-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-Dataflow-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-BigQueryML-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-DataProc-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-DataPrep-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-Fusion-blue?logo=google" />
+<img alt="Google" src="https://img.shields.io/badge/oogle-DataStudio-blue?logo=google" />
+
 
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafaali96)](https://github.com/mustafaali96/github-readme-stats)
 
