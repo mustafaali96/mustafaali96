@@ -39,10 +39,12 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 <h3>Technologies and tools I code with</h3>
 
 <p>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-postman-f15d27?style=flat-square&logo=postman&logoColor=white" />
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> 
+  <img alt="Google" src="https://img.shields.io/badge/-Google-blue?style=flat-square&logo=google&logoColor=white" /> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" /> 
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-postman-f15d27?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> 
 </p>
 
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafaali96)](https://github.com/mustafaali96/github-readme-stats)
