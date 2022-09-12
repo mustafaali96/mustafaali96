@@ -40,6 +40,7 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 
 <p>
   <img alt="Google" src="https://img.shields.io/badge/-GCP-blue?style=flat-square&logo=Google Cloud&logoColor=white" /> 
+  <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-303f47?style=flat-square&logo=Databricks&logoColor=e34514" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" /> 
   <img alt="Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-white?style=flat-square&logo=Apache%20Kafka&logoColor=black" />
   <img alt="Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-4290f5?style=flat-square&logo=Apache%20Airflow&logoColor=b80404" />
