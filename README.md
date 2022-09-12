@@ -41,6 +41,8 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
 <p>
   <img alt="Google" src="https://img.shields.io/badge/-Google-blue?style=flat-square&logo=google&logoColor=white" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" /> 
+  <img alt="Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-white?style=flat-square&logo=Apache%20Kafka&logoColor=black" />
+  <img alt="Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-4290f5?style=flat-square&logo=Apache%20Airflow&logoColor=b80404" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-postman-f15d27?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
