@@ -43,13 +43,13 @@ Check out my <a href="https://mustafa-ali-mir.herokuapp.com/" target="_blank"> <
   <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-303f47?style=flat-square&logo=Databricks&logoColor=e34514" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" /> 
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" /> 
-  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-092E20?style=flat-square&logo=streamlit" /> 
   <img alt="Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-white?style=flat-square&logo=Apache%20Kafka&logoColor=black" />
   <img alt="Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-4290f5?style=flat-square&logo=Apache%20Airflow&logoColor=b80404" />
   <img alt="Dialogflow" src="https://img.shields.io/badge/-DialogFlow-2f3030?style=flat-square&logo=Dialogflow&logoColor=FF9800" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-postman-f15d27?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-092E20?style=flat-square&logo=streamlit" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> 
 </p>
 
